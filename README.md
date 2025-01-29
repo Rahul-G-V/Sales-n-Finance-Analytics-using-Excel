@@ -30,7 +30,7 @@ Determine effective customer discounts, facilitate negotiations with consumers, 
 2. To Create Profit and Loss (P&L) reports by Markets
    i. Analyzed P&L by market to understand regional financial dynamics.
 
-4. To Create a Gross Margin % by Quarters
+3. To Create a Gross Margin % by Quarters
     i. Evaluated gross margin percentages by quarter to assess profitability.
    
 # Purpose of sales analytics:
